@@ -1,6 +1,6 @@
 {
 	"description": "CodeIgniter 3 Starter",
-	"name": "codeigniter/starter3.1",
+	"name": "codeigniter3/starter3.1",
 	"type": "project",
 	"homepage": "https://codeigniter.com",
 	"license": "MIT",
