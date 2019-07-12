@@ -26,7 +26,7 @@ then the following, from your project root, would run it on port 8000:
 
 This project is meant to be composer-installed:
 
-    composer create-project codeigniter/starter3.1
+    composer create-project codeigniter3/starter3.1
     composer update
 
 Updates to the framework can then be incorporated with
